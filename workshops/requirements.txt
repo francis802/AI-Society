@@ -1,0 +1,25 @@
+# Dependencies for the AI and Society workshop notebooks (T01-T04).
+# Unpinned; derived from the actual imports in each tutorial.
+# The case study has its own separate requirements at ../case_study/requirements.txt.
+
+# Core (used across workshops)
+jupyter
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# T01 - Data Profiling
+ydata-profiling
+
+# T02 - Data Complexity and Meta-Learning
+problexity
+pymfe
+pyhard
+
+# T03 - Imbalanced Data
+imbalanced-learn
+
+# T04 - Missing Data
+mdatagen
