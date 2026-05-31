@@ -1,3 +1,15 @@
+# Environments
 .venv
 .env
 aequitas
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS noise
+.DS_Store
+Thumbs.db
